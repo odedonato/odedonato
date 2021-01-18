@@ -1,7 +1,8 @@
 # Hello there! 👋
-*General Kenobi.
+*General Kenobi.*
 
 <hr>
+
 ### Omar De Donato
 <a href="https://dedonato.eu">
   <img align="left" alt="Omar's Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" />

@@ -39,4 +39,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Omar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=odedonato&show_icons=true)](https://github.com/odedonato)
+[![Omar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=odedonato&count_private=true&show_icons=true)](https://github.com/odedonato)

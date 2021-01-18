@@ -1,4 +1,4 @@
-## Hello there! 👋
+# Hello there! 👋
 *General Kenobi.*
 
 <hr>
@@ -20,9 +20,9 @@
 -->
 <br /><br />
 
-- 🥷🏼 Cloud Engineer 
+- 🥷🏼 Cloud Engineer
 - 🎾 Padel enthusiast
-- 🥩 BBQ lover
+- 🧱 Lego lover
 
 <!--
 **odedonato/odedonato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

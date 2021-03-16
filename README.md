@@ -4,7 +4,7 @@
 I'm Omar, a Cloud ~Engineer~ Ninja 🥷🏼 from 🇮🇹
 
 - 👨‍💻 I’m currently working at [Technacy](https://www.technacy.it), deploying new multi-cloud infrastructure and CI/CD pipeline.
-- 🛠 I work with: K8s, Terraform, Ansible, Jenkins, Bash, Perl, JavaScript, YAML and so on.
+- 🛠 I work with: K8s, Argo CD, Terraform, Ansible, Jenkins, Bash, Perl, JavaScript, YAML and so on.
 - 😍 I enjoy: cooking 🥘, playing Padel 🎾, reading (a lot) 📚, travelling ✈️, hiking ⛰️.
 - 📫 You can find more info about me on [my website 🌐](https://dedonato.eu) or on [LinkedIn](https://www.linkedin.com/in/odedonato/).
 

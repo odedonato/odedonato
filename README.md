@@ -1,7 +1,7 @@
 ### Hello there! 👋
 *«General Kenobi!»*
 
-I'm Omar, a Cloud ~Engineer~ Ninja 🥷🏼 from 🇮🇹
+I'm Omar, a Cloud ~Architect~ Ninja 🥷🏼 from 🇮🇹
 
 - 👨‍💻 I’m currently working at [Technacy](https://www.technacy.it), deploying new multi-cloud infrastructure and CI/CD pipeline.
 - 🛠 I work with: K8s, Argo CD, Terraform, Ansible, Jenkins, Bash, Perl, JavaScript, YAML and so on.

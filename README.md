@@ -3,12 +3,14 @@
 
 I'm Omar, a Cloud ~Architect~ Ninja 🥷🏼 & a DevOps ~Evangelist~ Sensei from 🇮🇹
 
-- 👨‍💻 I’m currently working at [Technacy](https://www.technacy.it), with main focuses on:
+- 👨‍💻 I’m currently working at [Docebo](https://docebo.com)
+<!--, with main focuses on:
     * design and deploy new multi-cloud infrastructures 
     * CI/CD pipelines
     * teach DevOps methodology
-- 🛠 I work with: K8s, ArgoCD, Terraform, Ansible, Jenkins, Bash, Perl, JavaScript, YAML and so on.
-- 😍 I enjoy: cooking 🥘, playing Padel 🎾, reading (a lot) 📚, travelling ✈️, hiking ⛰️.
+-->
+- 🛠 I mostly use: K8s, ArgoCD, Terraform, Ansible, Jenkins, Bash, Perl, JavaScript, YAML and so on.
+- 😍 I enjoy: cooking 🥘, playing Padel 🎾, reading (a lot) 📚, travelling ✈️, hiking ⛰️ and mountain biking 🚵🏼.
 - 📫 You can find more info about me on [my website 🌐](https://dedonato.eu) or on [LinkedIn](https://www.linkedin.com/in/odedonato/).
 
 [![Omar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=odedonato&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/odedonato)

@@ -7,8 +7,7 @@ I'm Omar, a Cloud ~Architect~ Ninja 🥷🏼 & a DevOps ~Evangelist~ Sensei from
 <!--, with main focuses on:
     * design and deploy new multi-cloud infrastructures 
     * CI/CD pipelines
-    * teach DevOps methodology
--->
+    * teach DevOps methodology -->
 - 🛠 I mostly use: K8s, ArgoCD, Terraform, Ansible, Jenkins, Bash, Perl, JavaScript, YAML and so on.
 - 😍 I enjoy: cooking 🥘, playing Padel 🎾, reading (a lot) 📚, travelling ✈️, hiking ⛰️ and mountain biking 🚵🏼.
 - 📫 You can find more info about me on [my website 🌐](https://dedonato.eu) or on [LinkedIn](https://www.linkedin.com/in/odedonato/).

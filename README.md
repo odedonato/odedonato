@@ -2,11 +2,12 @@
 *«General Kenobi!»*
 
 I'm Omar, a Cloud ~Architect~ Ninja 🥷🏼 & a DevOps ~Evangelist~ Sensei from 🇮🇹
-- 👨‍💻 I'm currently working at [Business Integration Partners S.p.A.](https://www.bip-group.com/) as a Solutions Architect, with main focuses on:
-    * design and deploy cloud infrastructure
+- 👨‍💻 I'm currently working at [Subito](https://www.subito.it/) as a Senior Platform Engineer, with main focuses on:
+    * Design and deploy cloud infrastructure
     * CI/CD pipelines
-    * teach DevSecOps methodology
-- 🛠 I mostly use: K8s, ArgoCD, Terraform, Ansible, Jenkins, Bash, Perl, Python, YAML and so on.
+    * Security
+    * Observability
+- 🛠 I mostly use: K8s, ArgoCD, Terraform, Ansible, GitHub, Bash, Helm, YAML and so on.
 - 😍 I enjoy: cooking 🥘, playing Padel 🎾, reading (a lot) 📚, travelling ✈️, hiking ⛰️ and mountain biking 🚵🏼.
 - 📫 You can find more info about me on [my website 🌐](https://dedonato.eu) or on [LinkedIn](https://www.linkedin.com/in/odedonato/).
 
